@@ -1,0 +1,24 @@
+{
+  "name": "ink-typescript-redux-test",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ts-node ."
+  },
+  "dependencies": {
+    "@types/node": "^8.0.7",
+    "@types/react": "^15.0.34",
+    "@types/react-dom": "^15.5.1",
+    "@types/react-redux": "^4.4.45",
+    "ink": "vadimdemedes/ink",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0",
+    "ts-node": "^3.1.0",
+    "typescript": "^2.4.1",
+    "typescript-fsa": "^2.3.1",
+    "typescript-fsa-reducers": "^0.4.4",
+    "typescript-fsa-redux-thunk": "^1.0.0"
+  }
+}

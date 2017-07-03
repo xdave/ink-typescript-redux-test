@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "lib": ["es2017"],
+    "jsx": "react",
+    "jsxFactory": "h",
+    "strict": true,
+    "importHelpers": false,
+    "noEmitHelpers": true,
+    "typeRoots": [
+      "node_modules/@types",
+      "custom_typings"
+    ]
+  }
+}
